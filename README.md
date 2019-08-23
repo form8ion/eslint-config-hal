@@ -1,6 +1,7 @@
 # eslint-config-hal
 
-opinionated scaffolder for producers and consumers of [HAL](http://stateless.co/hal_specification.html) APIs
+Shareable config for [ESLint](https://eslint.org/) for producers and consumers
+of [HAL](http://stateless.co/hal_specification.html) APIs
 
 <!-- status badges -->
 [![Build Status][ci-badge]][ci-link]

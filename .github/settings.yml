@@ -1,6 +1,6 @@
 _extends: .github
 repository:
   name: eslint-config-hal
-  description: opinionated scaffolder for producers and consumers of HAL APIs
+  description: Shareable config for producers and consumers of HAL APIs
   homepage: 'https://npm.im/@form8ion/eslint-config-hal'
   private: false

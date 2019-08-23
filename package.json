@@ -1,6 +1,6 @@
 {
   "name": "@form8ion/eslint-config-hal",
-  "description": "opinionated scaffolder for producers and consumers of HAL APIs",
+  "description": "Shareable config for producers and consumers of HAL APIs",
   "license": "MIT",
   "version": "0.0.0-semantically-released",
   "files": [
